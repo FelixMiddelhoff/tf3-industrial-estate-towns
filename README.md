@@ -4,6 +4,8 @@
 
 **EN** | [DE](#deutsch)
 
+**Get it in the in-game Mod Hub** (mod.io): [Industrial Estate Towns](https://mod.io/g/transportfever3/m/industrial-estate-towns)
+
 A script mod for Transport Fever 3. Rename a town so that its name starts with a keyword, and the town becomes an **industrial estate**: no housing, no commerce, only industry. Remove the keyword again and the town gets its housing and commerce back. All other towns stay as they are.
 
 **Please test it in a new game or on a copy of your savegame first, and tell me how it works for you** (see [Feedback](#feedback)).
@@ -64,6 +66,8 @@ MIT, see [LICENSE](LICENSE).
 ---
 
 ## Deutsch
+
+**Im Spiel über den Mod-Hub laden** (mod.io): [Industrial Estate Towns](https://mod.io/g/transportfever3/m/industrial-estate-towns)
 
 Ein Script-Mod für Transport Fever 3. Benenne eine Stadt so um, dass ihr Name mit einem Stichwort beginnt, und die Stadt wird zum **Industriegebiet**: kein Wohnen, kein Gewerbe, nur Industrie. Entfernst du das Stichwort wieder, bekommt die Stadt Wohnen und Gewerbe zurück. Alle anderen Städte bleiben unverändert.
 
